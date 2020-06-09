@@ -9,3 +9,8 @@ It contains java code for printing patterns like
       * *
       * * *
 
+ 
+3.   *  *  *  * 
+     *  *  *
+     *  *
+     *
